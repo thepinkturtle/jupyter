@@ -3,3 +3,4 @@ matplotlib
 pandas
 numpy
 jupyter_contrib_nbextensions
+seaborn
