@@ -8,5 +8,7 @@ To install packages from inside jupyter simply run the following command:
 To set the theme copy and paste the following
 ```from jupyterthemes import get_themes
 import jupyterthemes as jt
-from jupyterthemes.stylefx import set_nb_theme```
+from jupyterthemes.stylefx import set_nb_theme
+
+
 Then set the theme sometime after the main code with ```set_nb_theme('onedork')```
