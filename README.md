@@ -5,7 +5,7 @@ jupyter notebooks scratch
 ### Note to self:
 To install packages from inside jupyter simply run the following command:
 ```! pip install --user <package-of-choice>```
-To set the theme copy and paste the following
+To set the theme copy and paste the following\
 ```from jupyterthemes import get_themes```\
 ```import jupyterthemes as jt```\
 ```from jupyterthemes.stylefx import set_nb_theme```\
