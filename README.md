@@ -9,4 +9,4 @@ To set the theme copy and paste the following\
 ```from jupyterthemes import get_themes```\
 ```import jupyterthemes as jt```\
 ```from jupyterthemes.stylefx import set_nb_theme```\
-Then set it with ```set_nb_theme('onedork')```, it may need to be after your initial code.
+```set_nb_theme('onedork')```\
