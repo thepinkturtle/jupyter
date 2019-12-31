@@ -34,5 +34,13 @@ X_Modeled = backwardElimination(X_opt, SL)
 ```
 
 ### How to encode categorical data the new way
+```python
+from sklearn.preprocessing import OneHotEncoder, LabelEncoder
+from sklearn.compose import ColumnTransformer
+
+// [3] is the row that contains the categorical data
+ct = ColumnTransformer([('encoder', OneHotEncoder(), [3])], remainder='passthrough')
+X = np.array(ct.fit_transform(X), dtype=np.float)
+```
 
 
