@@ -2,8 +2,8 @@
 jupyter notebooks scratch
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thepinkturtle/jupyter.git/master)
 ---
-### Note to self:
-## Run locally
+# Note to self:
+### Run locally
 0. Make sure your Anaconda environment is started ```conda activate``` .
 1. Navigate to the project directory ```cd ~/juypter``` .
 2. Load your dependencies ```pip install -r requirements.txt``` .
