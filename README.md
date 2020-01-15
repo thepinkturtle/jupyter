@@ -5,7 +5,7 @@ jupyter notebooks scratch
 # Note to self:
 ### Run locally
 0. Make sure your Anaconda environment is started ```conda activate``` .
-1. Navigate to the project directory ```cd ~/juypter``` .
+1. Navigate to the project directory ```cd ~/jupyter``` .
 2. Load your dependencies ```pip install -r requirements.txt``` .
 3. Start jupyter notebook ```juypter notebook``` .
 
