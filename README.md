@@ -2,7 +2,13 @@
 jupyter notebooks scratch
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thepinkturtle/jupyter.git/master)
 ---
-### Note to self:
+# Note to self:
+### Run locally
+0. Make sure your Anaconda environment is started ```conda activate``` .
+1. Navigate to the project directory ```cd ~/jupyter``` .
+2. Load your dependencies ```pip install -r requirements.txt``` .
+3. Start jupyter notebook ```jupyter notebook``` .
+
 To install packages from inside jupyter simply run the following command:\
 ```! pip install --user <package-of-choice>```
 To set the theme copy and paste the following
