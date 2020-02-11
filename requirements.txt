@@ -6,3 +6,4 @@ jupyter_contrib_nbextensions
 seaborn
 jupyterthemes
 scikit-learn
+nltk
