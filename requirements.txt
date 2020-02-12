@@ -8,3 +8,5 @@ jupyterthemes
 scikit-learn
 nltk
 keras
+Theano
+tensorflow
