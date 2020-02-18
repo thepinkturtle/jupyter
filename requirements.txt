@@ -10,3 +10,4 @@ nltk
 keras
 Theano
 tensorflow
+pillow
