@@ -11,3 +11,4 @@ keras
 Theano
 tensorflow
 pillow
+xgboost
